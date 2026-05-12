@@ -1,13 +1,4 @@
-{"timestamp": "00:41:26.614", "elapsed_s": 1, "frame": 60, "screen_size": [1280, 720]}
-{"timestamp": "00:41:28.554", "elapsed_s": 3, "frame": 120, "screen_size": [1280, 720]}
-{"timestamp": "00:41:30.494", "elapsed_s": 5, "frame": 180, "screen_size": [1280, 720]}
-{"timestamp": "00:41:32.427", "elapsed_s": 7, "frame": 240, "screen_size": [1280, 720]}
-{"timestamp": "00:41:34.375", "elapsed_s": 9, "frame": 300, "screen_size": [1280, 720]}
-{"timestamp": "00:41:36.321", "elapsed_s": 11, "frame": 360, "screen_size": [1280, 720]}
-{"timestamp": "00:41:38.261", "elapsed_s": 13, "frame": 420, "screen_size": [1280, 720]}
-{"timestamp": "00:41:40.199", "elapsed_s": 15, "frame": 480, "screen_size": [1280, 720]}
-{"timestamp": "00:41:42.142", "elapsed_s": 17, "frame": 540, "screen_size": [1280, 720]}
-{"timestamp": "00:41:44.102", "elapsed_s": 19, "frame": 600, "screen_size": [1280, 720]}
-{"timestamp": "00:41:46.053", "elapsed_s": 21, "frame": 660, "screen_size": [1280, 720]}
-{"timestamp": "00:41:48.011", "elapsed_s": 23, "frame": 720, "screen_size": [1280, 720]}
-{"timestamp": "00:41:49.959", "elapsed_s": 25, "frame": 780, "screen_size": [1280, 720]}
+{"timestamp": "17:20:58.843", "elapsed_s": 2, "frame": 60, "screen_size": [1280, 720], "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.85, 398.94], "vel": [0.0, 0.0], "rad": 20, "rot": -9.9}]}, "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [640.85, 398.94], "vel": [0.0, 0.0], "rad": 20, "rot": -9.9}]}}
+{"timestamp": "17:21:00.780", "elapsed_s": 3, "frame": 120, "screen_size": [1280, 720], "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [688.25, 310.63], "vel": [0.0, 0.0], "rad": 20, "rot": -121.8}]}, "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [688.25, 310.63], "vel": [0.0, 0.0], "rad": 20, "rot": -121.8}]}}
+{"timestamp": "17:21:02.720", "elapsed_s": 5, "frame": 180, "screen_size": [1280, 720], "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [661.29, 411.26], "vel": [0.0, 0.0], "rad": 20, "rot": -189.3}]}, "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [661.29, 411.26], "vel": [0.0, 0.0], "rad": 20, "rot": -189.3}]}}
+{"timestamp": "17:21:04.657", "elapsed_s": 7, "frame": 240, "screen_size": [1280, 720], "drawable": {"count": 1, "sprites": [{"type": "Player", "pos": [670.04, 297.07], "vel": [0.0, 0.0], "rad": 20, "rot": -160.8}]}, "updatable": {"count": 1, "sprites": [{"type": "Player", "pos": [670.04, 297.07], "vel": [0.0, 0.0], "rad": 20, "rot": -160.8}]}}
